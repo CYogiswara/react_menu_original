@@ -1,0 +1,57 @@
+{
+  "menus": [
+    {
+      "id": "1",
+      "title": "Nasi goreng",
+      "content": "Ena",
+      "rating": 4,
+      "type": "drink"
+    },
+    {
+      "id": "3",
+      "title": "Es Teh",
+      "content": "lorem ipsum",
+      "rating": 5,
+      "type": "drink"
+    },
+    {
+      "id": "6474",
+      "title": "aaaaa",
+      "rating": 3,
+      "content": "aaaaaaaaaa"
+    },
+    {
+      "id": "0385",
+      "title": "aaaaaaaaa",
+      "rating": 4,
+      "content": "aaaaaaaaaaaa"
+    },
+    {
+      "id": "7160",
+      "title": "aaaaaaa",
+      "rating": 3,
+      "content": "aaaaaaaaaaaaaa"
+    },
+    {
+      "id": "bbcf",
+      "title": "aaaaaaaa",
+      "rating": 4,
+      "type": "",
+      "content": "aaaaaaaaaaaaaa"
+    },
+    {
+      "id": "eb35",
+      "title": "aaaaaaaaa",
+      "rating": 5,
+      "type": "",
+      "content": "aaaaaaaaaaaaaaa"
+    },
+    {
+      "id": "a8ab",
+      "title": "nasgor",
+      "rating": 4,
+      "type": "food",
+      "content": "fffffffffff"
+    }
+  ]
+}
